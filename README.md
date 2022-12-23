@@ -1,7 +1,16 @@
-### Hi there 👋
+# Aziz Mert Zengin's GitHub Profile
+#
+## All the code written belongs to me. The reason why all the files have a very close upload date is because I am just starting to move the code from my personal server to here.
+## This Github account is under maintenance.
+#
+## Check My Links Below:
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/azizmertzengin) [![YouTube Badge](https://img.shields.io/badge/-YouTube-c4302b?style=flat-quare&labelColor=c4302b&logo=youtube&logoColor=white&link=link)](https://www.youtube.com/@brainMinerYT)  [![YouTube Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-quare&labelColor=0e76a8&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/azizmertzengin/)
+
 
 <!--
-**azizmertzengin/azizmertzengin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
+**brainMinerYT/brainMinerYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
